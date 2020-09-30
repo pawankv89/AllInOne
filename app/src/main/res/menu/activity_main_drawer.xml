@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_alphabeta"
+            android:title="@string/menu_alphabets" />
+        <item
+            android:id="@+id/nav_numbertable"
+            android:title="@string/menu_numbertable" />
+        <item
+            android:id="@+id/nav_number1to10table"
+            android:title="@string/menu_number1to10table" />
+        <item
+            android:id="@+id/nav_number11to20table"
+            android:title="@string/menu_number11to20table" />
+        <item
+            android:id="@+id/nav_weekend"
+            android:title="@string/menu_weekend" />
+        <item
+            android:id="@+id/nav_month"
+            android:title="@string/menu_month" />
+
+        <item
+            android:id="@+id/nav_birds"
+            android:title="@string/menu_birds" />
+
+        <item
+            android:id="@+id/nav_fruits"
+            android:title="@string/menu_fruits" />
+
+        <item
+            android:id="@+id/nav_vegetables"
+            android:title="@string/menu_vegetables" />
+
+        <item
+            android:id="@+id/nav_humanbodyparts"
+            android:title="@string/menu_humanbodyparts" />
+
+        <item
+            android:id="@+id/nav_farmanimalnames"
+            android:title="@string/menu_farmanimalnames" />
+
+        <item
+            android:id="@+id/nav_insectsanimalnames"
+            android:title="@string/menu_insectsanimalnames" />
+
+        <item
+            android:id="@+id/nav_petsanimalnames"
+            android:title="@string/menu_petsanimalnames" />
+
+        <item
+            android:id="@+id/nav_seaanimalnames"
+            android:title="@string/menu_seaanimalnames" />
+
+        <item
+            android:id="@+id/nav_wildanimalnames"
+            android:title="@string/menu_wildanimalnames" />
+
+        <item
+            android:id="@+id/nav_statesnamewithcapital"
+            android:title="@string/menu_statesnamewithcapital" />
+
+    </group>
+</menu>
+
+<!--
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_home" />
+    <item
+        android:id="@+id/nav_alphabeta"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_alphabets" />
+    <item
+        android:id="@+id/nav_numbertable"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_numbertable" />
+    <item
+        android:id="@+id/nav_number1to10table"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_number1to10table" />
+    <item
+        android:id="@+id/nav_number11to20table"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_number11to20table" />
+    <item
+        android:id="@+id/nav_weekend"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_weekend" />
+    <item
+        android:id="@+id/nav_month"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_month" />
+
+    <item
+        android:id="@+id/nav_birds"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_birds" />
+
+    <item
+        android:id="@+id/nav_fruits"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_fruits" />
+
+    <item
+        android:id="@+id/nav_vegetables"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_vegetables" />
+
+    <item
+        android:id="@+id/nav_humanbodyparts"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_humanbodyparts" />
+
+    <item
+        android:id="@+id/nav_farmanimalnames"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_farmanimalnames" />
+
+    <item
+        android:id="@+id/nav_insectsanimalnames"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_insectsanimalnames" />
+
+    <item
+        android:id="@+id/nav_petsanimalnames"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_petsanimalnames" />
+
+    <item
+        android:id="@+id/nav_seaanimalnames"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_seaanimalnames" />
+
+    <item
+        android:id="@+id/nav_wildanimalnames"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_wildanimalnames" />
+
+    <item
+        android:id="@+id/nav_statesnamewithcapital"
+        android:icon="@drawable/ic_menu_placeholder"
+        android:title="@string/menu_statesnamewithcapital" />
+
+</group>
+
+-->

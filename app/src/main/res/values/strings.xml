@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">All In One</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Guest User</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_share">Share Me!</string>
+    <string name="action_rate_app">Rate Me!</string>
+
+    <string name="menu_alphabets">Alphabets</string>
+    <string name="menu_numbertable">Number Table</string>
+    <string name="menu_number1to10table"> 1 To 10 Number Table</string>
+    <string name="menu_number11to20table">11 To 20 Number Table</string>
+    <string name="menu_weekend">Day Names</string>
+    <string name="menu_month">Month Names</string>
+    <string name="menu_birds">Birds Names</string>
+    <string name="menu_fruits">Fruits Names</string>
+    <string name="menu_vegetables">Vegetables Names</string>
+    <string name="menu_humanbodyparts">Human Body Parts</string>
+
+    <string name="menu_petsanimalnames">Pets Animals Names</string>
+    <string name="menu_wildanimalnames">Wild Animals Names</string>
+    <string name="menu_farmanimalnames">Farm Animals Names</string>
+    <string name="menu_seaanimalnames">Sea Animals Names</string>
+    <string name="menu_insectsanimalnames">Insects Animals Names</string>
+    <string name="menu_statesnamewithcapital">States Name With Capital</string>
+
+    <string name="menu_home">Home</string>
+
+</resources>

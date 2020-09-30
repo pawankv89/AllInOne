@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.pk.allinone.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_alphabeta"
+        android:name="com.pk.allinone.ui.alphabets.AlphabetsFragment"
+        android:label="@string/menu_alphabets"
+        tools:layout="@layout/fragment_alphabets" />
+
+    <fragment
+        android:id="@+id/nav_numbertable"
+        android:name="com.pk.allinone.ui.numbertable.NumberTableFragment"
+        android:label="@string/menu_numbertable"
+        tools:layout="@layout/fragment_numbertable" />
+
+    <fragment
+        android:id="@+id/nav_number1to10table"
+        android:name="com.pk.allinone.ui.numbertable.Number1To10TableFragment"
+        android:label="@string/menu_number1to10table"
+        tools:layout="@layout/fragment_number1to10table" />
+
+    <fragment
+        android:id="@+id/nav_number11to20table"
+        android:name="com.pk.allinone.ui.numbertable.Number11To20TableFragment"
+        android:label="@string/menu_number11to20table"
+        tools:layout="@layout/fragment_number11to20table" />
+
+    <fragment
+        android:id="@+id/nav_weekend"
+        android:name="com.pk.allinone.ui.weekend.WeekedFragment"
+        android:label="@string/menu_weekend"
+        tools:layout="@layout/fragment_weekend" />
+
+    <fragment
+        android:id="@+id/nav_month"
+        android:name="com.pk.allinone.ui.month.MonthFragment"
+        android:label="@string/menu_month"
+        tools:layout="@layout/fragment_month" />
+
+    <fragment
+        android:id="@+id/nav_birds"
+        android:name="com.pk.allinone.ui.birds.BirdsFragment"
+        android:label="@string/menu_birds"
+        tools:layout="@layout/fragment_birds" />
+
+    <fragment
+        android:id="@+id/nav_fruits"
+        android:name="com.pk.allinone.ui.fruits.FruitsFragment"
+        android:label="@string/menu_fruits"
+        tools:layout="@layout/fragment_fruits" />
+
+    <fragment
+        android:id="@+id/nav_vegetables"
+        android:name="com.pk.allinone.ui.vegetables.VegetablesFragment"
+        android:label="@string/menu_vegetables"
+        tools:layout="@layout/fragment_vegetables" />
+
+    <fragment
+        android:id="@+id/nav_humanbodyparts"
+        android:name="com.pk.allinone.ui.humanbodyparts.HumanBodyPartsFragment"
+        android:label="@string/menu_vegetables"
+        tools:layout="@layout/fragment_humanbodyparts" />
+
+    <fragment
+        android:id="@+id/nav_farmanimalnames"
+        android:name="com.pk.allinone.ui.animalnames.FarmAnimalNamesFragment"
+        android:label="@string/menu_farmanimalnames"
+        tools:layout="@layout/fragment_farmanimalnames" />
+
+    <fragment
+        android:id="@+id/nav_insectsanimalnames"
+        android:name="com.pk.allinone.ui.animalnames.InsectsAnimalNamesFragment"
+        android:label="@string/menu_insectsanimalnames"
+        tools:layout="@layout/fragment_insectsanimalnames" />
+
+    <fragment
+        android:id="@+id/nav_petsanimalnames"
+        android:name="com.pk.allinone.ui.animalnames.PetsAnimalNamesFragment"
+        android:label="@string/menu_petsanimalnames"
+        tools:layout="@layout/fragment_petsanimalnames" />
+
+    <fragment
+        android:id="@+id/nav_seaanimalnames"
+        android:name="com.pk.allinone.ui.animalnames.SeaAnimalNamesFragment"
+        android:label="@string/menu_seaanimalnames"
+        tools:layout="@layout/fragment_seaanimalnames" />
+
+    <fragment
+        android:id="@+id/nav_wildanimalnames"
+        android:name="com.pk.allinone.ui.animalnames.WildAnimalNamesFragment"
+        android:label="@string/menu_wildanimalnames"
+        tools:layout="@layout/fragment_wildanimalnames" />
+
+    <fragment
+        android:id="@+id/nav_statesnamewithcapital"
+        android:name="com.pk.allinone.ui.statesnamewithcapital.StatesNameWithCapitalFragment"
+        android:label="@string/menu_statesnamewithcapital"
+        tools:layout="@layout/fragment_statesnamewithcapital" />
+
+</navigation>
